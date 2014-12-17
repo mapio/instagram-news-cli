@@ -29,4 +29,4 @@ text (it just cleans it up a bit), it is possible that if the API will change
 the output format the script will break.
 
 
-[![Analytics](https://ga-beacon.appspot.com/UA-377250-20/instagram-news-cli?pixel)](https://github.com/igrigorik/ga-beacon)
+![Analytics](https://ga-beacon.appspot.com/UA-377250-20/instagram-news-cli?pixel)
